@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bscwarc SYSTEM "http://bscw.de/bscw/bscwarc.dtd">
+<bscwarc id="ch.tbz.bscw:443S.bscw" server="https://bscw.tbz.ch" timestamp="20210305T075400Z" pathsep="/">
+  <metadata xmlns:bscw_doc="http://bscw.de/bscw/elements/0.1/doc/" xmlns:DC="http://purl.org/dc/elements/1.1/" xmlns:bscw="http://bscw.de/bscw/elements/0.1/" >
+    <obj ctime="1614692938.04" creator="stefan.kemper" id="32659940" mtime="1614692988.95" path="Aufgabe_3" class="bscw.core.cl_folder.Folder" >
+      <bscw:description></bscw:description>
+      <bscw:name>Aufgabe_3</bscw:name>
+      <role_maps>
+<cid id="32659924">None</cid>
+</role_maps>
+      
+    </obj>
+    <obj ctime="1614692980.86" creator="stefan.kemper" id="32659950" mtime="1614693012.77" path="Aufgabe_3/login" class="bscw.core.cl_folder.Folder" >
+      <bscw:description></bscw:description>
+      <bscw:name>login</bscw:name>
+      <role_maps>
+<cid id="32659940">None</cid>
+</role_maps>
+      
+    </obj>
+    <obj ctime="1614692987.69" creator="stefan.kemper" id="32659955" mtime="1614692987.69" path="Aufgabe_3/login.zip" type="application/zip" class="bscw.core.cl_document.Document" >
+      <bscw:description></bscw:description>
+      <bscw_doc:mimetype>Archive (Zip/Winzip)</bscw_doc:mimetype>
+      <bscw:name>login.zip</bscw:name>
+      <role_maps>
+<cid id="32659940">None</cid>
+</role_maps>
+      
+    </obj>
+    <obj ctime="1614693006.61" creator="stefan.kemper" id="32659966" mtime="1614693006.61" path="Aufgabe_3/login/checkuser.php" type="text/php" class="bscw.core.cl_document.Document" >
+      <bscw:description></bscw:description>
+      <bscw_doc:mimetype>PHP Script</bscw_doc:mimetype>
+      <bscw:name>checkuser.php</bscw:name>
+      <role_maps>
+<cid id="32659950">None</cid>
+</role_maps>
+      
+    </obj>
+    <obj ctime="1614693007.42" creator="stefan.kemper" id="32659971" mtime="1614693007.42" path="Aufgabe_3/login/formular.php" type="text/php" class="bscw.core.cl_document.Document" >
+      <bscw:description></bscw:description>
+      <bscw_doc:mimetype>PHP Script</bscw_doc:mimetype>
+      <bscw:name>formular.php</bscw:name>
+      <role_maps>
+<cid id="32659950">None</cid>
+</role_maps>
+      
+    </obj>
+    <obj ctime="1614693008.35" creator="stefan.kemper" id="32659976" mtime="1614693008.35" path="Aufgabe_3/login/intern.php" type="text/php" class="bscw.core.cl_document.Document" >
+      <bscw:description></bscw:description>
+      <bscw_doc:mimetype>PHP Script</bscw_doc:mimetype>
+      <bscw:name>intern.php</bscw:name>
+      <role_maps>
+<cid id="32659950">None</cid>
+</role_maps>
+      
+    </obj>
+    <obj ctime="1614693009.18" creator="stefan.kemper" id="32659981" mtime="1614693009.18" path="Aufgabe_3/login/intern_artikel.php" type="text/php" class="bscw.core.cl_document.Document" >
+      <bscw:description></bscw:description>
+      <bscw_doc:mimetype>PHP Script</bscw_doc:mimetype>
+      <bscw:name>intern_artikel.php</bscw:name>
+      <role_maps>
+<cid id="32659950">None</cid>
+</role_maps>
+      
+    </obj>
+    <obj ctime="1614693010.11" creator="stefan.kemper" id="32659986" mtime="1614693010.11" path="Aufgabe_3/login/login.php" type="text/php" class="bscw.core.cl_document.Document" >
+      <bscw:description></bscw:description>
+      <bscw_doc:mimetype>PHP Script</bscw_doc:mimetype>
+      <bscw:name>login.php</bscw:name>
+      <role_maps>
+<cid id="32659950">None</cid>
+</role_maps>
+      
+    </obj>
+    <obj ctime="1614693011.09" creator="stefan.kemper" id="32659991" mtime="1614693011.09" path="Aufgabe_3/login/logout.php" type="text/php" class="bscw.core.cl_document.Document" >
+      <bscw:description></bscw:description>
+      <bscw_doc:mimetype>PHP Script</bscw_doc:mimetype>
+      <bscw:name>logout.php</bscw:name>
+      <role_maps>
+<cid id="32659950">None</cid>
+</role_maps>
+      
+    </obj>
+    <obj ctime="1614693011.9" creator="stefan.kemper" id="32659996" mtime="1614693011.9" path="Aufgabe_3/login/user_inp.php" type="text/php" class="bscw.core.cl_document.Document" >
+      <bscw:description></bscw:description>
+      <bscw_doc:mimetype>PHP Script</bscw_doc:mimetype>
+      <bscw:name>user_inp.php</bscw:name>
+      <role_maps>
+<cid id="32659950">None</cid>
+</role_maps>
+      
+    </obj>
+    <obj ctime="1614693012.77" creator="stefan.kemper" id="32660001" mtime="1614693012.77" path="Aufgabe_3/login/UserTabelle.sql" type="application/octet-stream" class="bscw.core.cl_document.Document" >
+      <bscw:description></bscw:description>
+      <bscw_doc:mimetype>Binary Data</bscw_doc:mimetype>
+      <bscw:name>UserTabelle.sql</bscw:name>
+      <role_maps>
+<cid id="32659950">None</cid>
+</role_maps>
+      
+    </obj>
+    <obj ctime="1614692988.95" creator="stefan.kemper" id="32659960" mtime="1614692988.95" path="Aufgabe_3/M133_Aufgabe_3_Loginsystem_V2.pdf" type="application/pdf" class="bscw.core.cl_document.Document" >
+      <DC:title>Microsoft Word - M133_Aufgabe_3_Loginsystem_V2.docx</DC:title>
+      <bscw:description></bscw:description>
+      <DC:created>2021-03-02T13:40:50Z</DC:created>
+      <bscw_doc:mimetype>Adobe PDF</bscw_doc:mimetype>
+      <DC:modified>2021-03-02T13:40:50Z</DC:modified>
+      <DC:author>s.kemper</DC:author>
+      <bscw:name>M133_Aufgabe_3_Loginsystem_V2.pdf</bscw:name>
+      <role_maps>
+<cid id="32659940">None</cid>
+</role_maps>
+      
+    </obj>
+    
+  </metadata>
+</bscwarc>
